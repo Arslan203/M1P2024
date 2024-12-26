@@ -15,16 +15,16 @@
 
 .. class:: center
 
-    :Название исследуемой задачи: Мое название работы
-    :Тип научной работы: M1P/НИР/CoIS
-    :Автор: Имя Отчество Фамилия
-    :Научный руководитель: степень, Фамилия Имя Отчество
-    :Научный консультант(при наличии): степень, Фамилия Имя Отчество
+    :Название исследуемой задачи: повышение пространственного разрешения спутниковых данных с применением нейронных сетей для определения характеристик лесных пород
+    :Тип научной работы: M1P
+    :Автор: Арслан Рустамович Валеев
+    :Научный руководитель: к.ф-м.н., доцент Гуров Сергей Исаевич
+    :Научный консультант(при наличии): ученый секретарь, Кравцова Ольга Анатольевна
 
 Abstract
 ========
 
-Purus sit amet luctus venenatis lectus magna fringilla. Condimentum id venenatis a condimentum vitae sapien. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Eget egestas purus viverra accumsan in. Nam aliquam sem et tortor. Donec et odio pellentesque diam volutpat commodo. Odio pellentesque diam volutpat commodo sed egestas. Sit amet dictum sit amet justo. Pellentesque sit amet porttitor eget. Imperdiet sed euismod nisi porta lorem mollis aliquam ut. Quis varius quam quisque id diam vel quam elementum. Ornare lectus sit amet est placerat in. Vulputate dignissim suspendisse in est ante. Elit sed vulputate mi sit amet mauris. Egestas sed tempus urna et pharetra pharetra. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus.
+В настоящее время использование спутниковых данных для мониторинга и анализа объектов и явлений в окружающей среде становится все более распространенным и актуальным. Однако получение изображений высокого качества требует значительных ресурсов и использования высокотехнологичного оборудования. Кроме того, существует проблема передачи данных между различными устройствами, которые могут работать с разными допустимыми разрешениями изображений. Именно в связи с этими проблемами возникает потребность в разработке эффективных методов повышения пространственного разрешения изображений. Рассмотрим более подробно, почему нейронные сети становятся необходимыми для решения этой задачи и почему стандартные методы, такие как линейная или бикубическая интерполяция, могут быть недостаточно эффективными.
 
 Research publications
 ===============================
